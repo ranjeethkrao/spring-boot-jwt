@@ -10,5 +10,5 @@ The example uses maven as a build tool. You can get started by running Applicati
  4. Java 1.8
  
 ## APIs available
-/token/getToken - Get the JWT token by providing valid username password.
+/token/getToken - Get the JWT token by providing valid username password.  
 /users & /user/:id - Get user information, only with a valid JWT Token.
